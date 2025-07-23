@@ -38,8 +38,8 @@ I have a strong foundation in programming languages like Python, Django, C, and 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats: 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdshihabshahriar&theme=github-compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdshihabshahriar&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdshihabshahriar&theme=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdshihabshahriar&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=mdshihabshahriar&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mdshihabshahriar&theme=highcontrast&hide_border=false)<br/>
 
