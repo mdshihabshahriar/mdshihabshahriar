@@ -40,7 +40,6 @@ I have a strong foundation in programming languages like Python, Django, C, and 
 # 📊 GitHub Stats: 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdshihabshahriar&theme=github-compact)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdshihabshahriar&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abin0x&layout=compact&theme=radical)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=mdshihabshahriar&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mdshihabshahriar&theme=highcontrast&hide_border=false)<br/>
 
