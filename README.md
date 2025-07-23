@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: shihabshahriar.contact@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love Code.
-🚀 About Me:
+- 🚀 About Me:
 👋 Hi, I’m MD. Shihab Shahriar, a Junior Python Developer from American International University-Bangladesh(AIUB).
 I have a strong foundation in programming languages like Python, Django, C, and C++, along with web technologies including HTML, CSS, and JavaScript. I am passionate about writing clean, efficient code and continuously learning new technologies.
 
