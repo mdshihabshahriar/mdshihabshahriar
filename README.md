@@ -14,7 +14,8 @@ I have a strong foundation in programming languages like Python, Django, C, and 
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamshihabshahriar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shihab__shahriar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdshihabshahriar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shihabshahriar.contact@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-000000?logo=firefox&logoColor=white)](https://mdshihabshahriar.netlify.app)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamshihabshahriar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_shihab__shahriar_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdshihabshahriar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shihabshahriar.contact@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white)](https://mdshihabshahriar.netlify.app)
+
 
 
 # 💻 Tech Stack:
