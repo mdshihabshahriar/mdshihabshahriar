@@ -43,7 +43,7 @@ I specialize in the MERN stack, React, Next.js, and Firebase. Experienced in bui
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdshihabshahriar&bg_color=000000&color=fff700&line=00bfff&point=00bfff&area=true&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdshihabshahriar&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=mdshihabshahriar&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mdshihabshahriar&theme=highcontrast&hide_border=false)<br/>
+![](https://streak-stats.demolab.com?user=mdshihabshahriar&theme=highcontrast)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mdshihabshahriar&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
